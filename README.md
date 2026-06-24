@@ -110,9 +110,8 @@ The project was developed using QGIS and demonstrates the application of geospat
 
 ## 1. Vegetation Density Map
 
-File:
+![Vegetation Density Map](Maps/NDVI%20Jodhpur%20Layout.png)
 
-`Maps/NDVI Jodhpur Layout.png`
 
 This map represents vegetation distribution across Jodhpur City using NDVI-based classification.
 
@@ -120,9 +119,7 @@ This map represents vegetation distribution across Jodhpur City using NDVI-based
 
 ## 2. Built-up Surface Density Map (NDBI)
 
-File:
-
-`Maps/Built-up Surface Density Map (NDBI).png`
+![Built-up Surface Density Map](Maps/Built-up%20Surface%20Density%20Map%20(NDBI).png)
 
 This map illustrates urban surface density and built-up land distribution derived from NDBI classification.
 
